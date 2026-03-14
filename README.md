@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="font-family:monospace;font-size:2.2rem;font-weight:500;"><span style="color:#58a6ff;">M</span>ohyi <span style="color:#58a6ff;">B</span>arghouti</span>
+![name](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mohyi+Barghouti)
 
 `Computer Engineering` · `Embedded Systems` · `Hardware & Software`
 
